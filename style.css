@@ -1,9 +1,21 @@
 h1 {
     font-weight: bold;
-    color: orangered;
+    color: #fba92c;
+    background-color: #141414;
     text-align: center;
 }
 
 .un_list {
-    background-color: aliceblue;
+    background-color: #565656;
+    color: #FFFFFF;
+    padding: 8px;
+}
+
+.un_list > li {
+    padding: 4px;
+    margin-left: 12px;
+}
+
+a {
+    color: #ffffff;
 }
